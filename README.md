@@ -7,7 +7,7 @@ Git MUST be installed.
 ## Installation
 
 ```bash
-$ wget --no-check-certificate https://github.com/taringamberini/my-xbindkeys-configuration/blob/master/install.sh
+$ wget --no-check-certificate https://raw.githubusercontent.com/taringamberini/my-xbindkeys-configuration/master/install.sh
 $ sh install.sh
 ```
 
