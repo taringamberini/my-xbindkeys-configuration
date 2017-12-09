@@ -1,5 +1,5 @@
 # my-xbindkeys-configuration
-My current [xbindkeys](www.nongnu.org/xbindkeys/xbindkeys.html) configuration file.
+My current [xbindkeys](http://www.nongnu.org/xbindkeys/xbindkeys.html) configuration file.
 
 ## Requirement
 Git MUST be installed.
@@ -7,7 +7,7 @@ Git MUST be installed.
 ## Installation
 
 ```bash
-$ wget --no-check-certificate https://raw.githubusercontent.com/taringamberini/my-xbindkey-configuration/master/install.sh
+$ wget --no-check-certificate https://github.com/taringamberini/my-xbindkeys-configuration/blob/master/install.sh
 $ sh install.sh
 ```
 
